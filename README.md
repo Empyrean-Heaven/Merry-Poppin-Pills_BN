@@ -13,3 +13,5 @@ This mod adds several pills of varying uses. It is a simple mod, and the only re
 • Boom Pill: This isn't a pill at all. Just a bomb shaped like one. Don't swallow.
 • Greed Pill: One greed pill can give birth to two. Make of that what you will.
 • Clarity Pill: See everything for sixty seconds. EVERYTHING.
+### Changelog
+2024.06.07. (Fri) First Release
