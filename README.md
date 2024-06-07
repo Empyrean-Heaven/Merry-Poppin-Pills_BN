@@ -1,7 +1,7 @@
 # Merry-Poppin-Pills_BN
 A neat little mod for Cataclysm: Bright Nights
 ### Introduction
-This mod adds several pills of varying uses. It is a simple mod, and the only real outlier is that the pills can only be purchased through cash in the Recipes menu. Thus, you'll have a reason now to actually accumulate cash. All pills cost $100.00. Every pill in this mod is canonically an invention by Willy Wonka, and is produced and sold by Wonka Industries, Inc.
+This mod adds several pills of varying uses. It is a simple mod, and the only real outlier is that the pills can only be purchased through cash in the Recipes menu. Thus, you'll have a reason now to actually accumulate cash. All pills cost $100.00 and are worth $50.00 in the Cataclysm. Every pill in this mod is canonically an invention by Willy Wonka, and is produced and sold by Wonka Industries, Inc.
 ### Pill Types
 • Overdose Pills: If you want to gain stimulant overdose in an instant, this is the one for you! Hardly addictive at all, so it is great for nouveau riches.
 
