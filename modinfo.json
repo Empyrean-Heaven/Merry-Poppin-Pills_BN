@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "merrypoppinpills",
+    "name": "<color_white>Merry Poppin' Pills</color>",
+    "authors": [ "Hyojason" ],
+    "description": "A delightful addition to the game that offers the player pills of various shapes, colors, and functions. They can be purchased through cash transactions supported by Wonka Industries, Inc. even in the middle of a Cataclysm. Impressive!",
+    "version": "Version 1.0",
+    "category": "content",
+    "dependencies": [ "bn" ]
+  }
+]
